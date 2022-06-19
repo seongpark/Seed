@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'InfinitySans-RegularA1';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/InfinitySans-RegularA1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #A5DF00!important;
+    color: #3A2F0B;
+    font-family: 'InfinitySans-RegularA1'!important;
+}
+
+.box1 {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 120px;
+    color: white;
+    background-color: #3A2F0B;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.box2 {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 120px;
+    color: white;
+    background-color: #3A2F0B;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.prograss_box {
+    padding-top: 3px;
+    padding-bottom: 12px;
+    width: 100%;
+    color: white;
+    background-color: #3A2F0B;
+    border-radius: 12px;
+}
